@@ -1,3 +1,4 @@
+<?php
 function bubbleSort(array $array): array { 
     $length = count($array); 
 
